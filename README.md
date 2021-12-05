@@ -4,4 +4,4 @@ I am a software developer, with interest in low-level programming and cryptograp
 
 You can talk to me at julia.poo.poo.poo@gmail.com
 
-[![GitHub metrics](https://metrics.lecoq.io/juliapoo?languages=1&followup=1)](https://github.com/lowlighter/metrics)
+[![GitHub Metrics](https://github.com/juliapoo/juliapoo/blob/main/github-metrics.svg)](https://github.com/lowlighter/metrics)
