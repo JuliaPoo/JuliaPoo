@@ -14,3 +14,4 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.README_ACCESS_TOKEN }}
+          plugin_languages: yes
