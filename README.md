@@ -1,6 +1,6 @@
 ## Heyo! ^-^/ <img src="./rsrc/skykid.svg" style="height:1em">
 
-I'n currently a year 1 university student, with interest in low-level programming and cryptography. I like writing small experimental stuff and occasionally tools
+I'n currently a year 1 university student, with interest in programming languages and mathematics. I like writing small experimental stuff and occasionally tools
 
 You can talk to me at julia.poo.poo.poo@gmail.com
 
